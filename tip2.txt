@@ -1,0 +1,3 @@
+git branch testing
+git log --oneline --decorate
+git checkout testing
