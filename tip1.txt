@@ -1,1 +1,6 @@
 git init 初始化
+git add **
+git commit -m 'dddd'
+git status -s 简化状态输出
+    左边M表示文件被修改并放入了暂存区，右边M表示被修改但未放入暂存区，A表示新添加到暂存区的文件，？？
+    新添加的未跟踪文件
